@@ -17,6 +17,15 @@ To Summarize,
   * Simple solutions are faster to implement.
   * Simpler solutions yield fewer implementation faults (reduces testing effor).
   * Easy to maintain ( detecting and correcting defects is more effective and efficient).
-  * Perfectionn is reached not when there is nothing left to add, but when there is nothing left to take away
+  * Perfection is reached not when there is nothing left to add, but when there is nothing left to take away.
+
+## YAGNI - You aren't gonna need it.
+
+Don't implement something until it is necessary.
+
+
+Why? 
+
+Any work that's only used for a feature that's needed tomorrow, means losing effot from features that needs to be done for current iteration. It also leads to code bload. Always implement things when you actually need them, never when you just forsee that you need them.
 
 
