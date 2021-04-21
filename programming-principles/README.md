@@ -29,3 +29,15 @@ Why?
 Any work that's only used for a feature that's needed tomorrow, means losing effot from features that needs to be done for current iteration. It also leads to code bload. Always implement things when you actually need them, never when you just forsee that you need them.
 
 
+## Seperation of Concerns
+
+Its a design principle for separating a computer program into distinct sections, such that each section addresses a separate concern. For example, business logic is a concern and the user interface is another concern. Changing the user interface should not require changes to business logic and vice versa.
+
+Why? 
+
+* Simplify development and maintenance of software applications.
+* When concerns are separeated individual sections can be reused, as well as developed and updated independently.
+
+How?
+
+Break Program functionality into separate modules that overlap as little as possible.
