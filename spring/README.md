@@ -20,7 +20,7 @@ for J2EE application development.
 * Spring framework is also called as framework of frameworks as it provides support to various other frameworks such as
 Struts, Hibernate, Tapestry, EJB, JSF etc.
 
-![Architecture](spring/images/spring-architecture.png "Architecture")
+![Architecture](images/spring-architecture.png "Architecture")
 
 * Spring framework provides about 20 modules which can be used based on application requirement.
 
